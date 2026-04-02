@@ -1,3 +1,4 @@
+import "./globals.css";
 export const metadata = {
   title: "Xiaoqi Zhao",
   description: "Academic Personal Website",
